@@ -1,1 +1,1 @@
-game.libretro https://github.com/kodi-game/game.libretro retroplayer
+game.libretro https://github.com/Kodi4XboxOne/game.libretro retroplayer
